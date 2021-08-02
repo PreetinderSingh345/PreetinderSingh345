@@ -8,9 +8,9 @@
 
 - Programming Languages  
   - `C++` `Java` `Python` 
-- Machine Learning and Data Science
+- Data Science and Machine Learning
   - `Numpy` `Pandas` `Matplotlib` `BeautifulSoup` `Selenium` `SQL` `Sqlite` `APIs` `Sklearn` 
-- Full Stack Development
+- Web Technologies
   - `HTML` `CSS` `Javascript` `Nodejs` `Express` `ejs` `AJAX` `passport` `MongoDB` `Firebase` `React` `Redux`
 
 ---
