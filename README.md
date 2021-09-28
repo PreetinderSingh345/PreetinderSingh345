@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Preetinder Singh
 
-- I'm a Machine Learning and Data Science Enthusiast with experience in Full Stack Development
+- I'm a Full Stack Developer and Data Science & Machine Learning Enthusiast
 
 ---
 
@@ -8,10 +8,10 @@
 
 - Programming Languages  
   - `C++` `Java` `Python` 
-- Data Science and Machine Learning
-  - `Numpy` `Pandas` `Matplotlib` `BeautifulSoup` `Selenium` `SQL` `Sqlite` `APIs` `Sklearn` `NLP` `Tableau`
 - Web Technologies
   - `HTML` `CSS` `Javascript` `Nodejs` `Express` `ejs` `AJAX` `passport` `MongoDB` `Firebase` `React` `Redux`
+- Data Science & Machine Learning
+  - `Numpy` `Pandas` `Matplotlib` `BeautifulSoup` `Selenium` `SQL` `Sqlite` `APIs` `Sklearn` `NLP` `Tableau`
 
 ---
 
