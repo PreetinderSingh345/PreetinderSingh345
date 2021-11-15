@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Preetinder Singh
 
-- I'm a Full Stack Developer and Data Science & Machine Learning Enthusiast
+- I'm a Full Stack Developer and Machine Learning Enthusiast
 
 ---
 
