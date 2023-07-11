@@ -9,7 +9,7 @@
 - Programming Languages  
   - `C++` `Java` `Python` 
 - Web Technologies
-  - `HTML` `CSS` `Javascript` `Nodejs` `Express` `ejs` `AJAX` `passport` `MongoDB` `Firebase` `React` `Redux`
+  - `HTML` `CSS` `Javascript` `Nodejs` `Express` `ejs` `AJAX` `passport` `MongoDB` `Firebase` `React` `Redux` `PostgreSQL` `Sequelize` `Docker` `JWT` `Jest` `React Testing Library`
 - Data Science & Machine Learning
   - `Numpy` `Pandas` `Matplotlib` `BeautifulSoup` `Selenium` `SQL` `Sqlite` `APIs` `Sklearn` `NLP` `Tableau`
 
