@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Preetinder Singh
 
-- I'm a Full Stack Developer and Machine Learning Enthusiast
+- I'm a Full Stack Developer
 
 ---
 
@@ -9,9 +9,9 @@
 - Programming Languages  
   - `C++` `Java` `Python` 
 - Web Technologies
-  - `HTML` `CSS` `Javascript` `Nodejs` `Express` `ejs` `AJAX` `passport` `MongoDB` `Firebase` `React` `Redux` `PostgreSQL` `Sequelize` `Docker` `JWT` `Jest` `React Testing Library`
+  - `HTML` `CSS` `Javascript` `Node.js` `Express.js` `EJS` `AJAX` `MongoDB` `PostgreSQL` `Sequelize` `Firebase`  `Git` `Passport.js` `JWT` `Docker` `React.js` `Redux` `Jest` `React Testing Library` `Beautiful Soup` `Selenium` `GitHub`
 - Data Science & Machine Learning
-  - `Numpy` `Pandas` `Matplotlib` `BeautifulSoup` `Selenium` `SQL` `Sqlite` `APIs` `Sklearn` `NLP` `Tableau`
+  - `Numpy` `Pandas` `Matplotlib` `SQLite` `Sklearn` `NLP` `Tableau`
 
 ---
 
